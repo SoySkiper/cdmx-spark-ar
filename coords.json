@@ -1,0 +1,2147 @@
+[
+    {
+        "NOMBRE": "Pantitlán",
+        "LINEA": "01",
+        "EST": "01",
+        "COORDENADAS": {
+            "latitude": 19.415025285789604,
+            "longitude": -99.07425208221568
+        },
+        "TIPO": "Terminal / Transbordo",
+        "AÑO": "1984"
+    },
+    {
+        "NOMBRE": "Zaragoza",
+        "LINEA": "01",
+        "EST": "02",
+        "COORDENADAS": {
+            "latitude": 19.411954041605707,
+            "longitude": -99.08255587147542
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Gomez Farías",
+        "LINEA": "01",
+        "EST": "03",
+        "COORDENADAS": {
+            "latitude": 19.416448478789366,
+            "longitude": -99.09022879531807
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Boulevard Puerto Aéreo",
+        "LINEA": "01",
+        "EST": "04",
+        "COORDENADAS": {
+            "latitude": 19.419780664305875,
+            "longitude": -99.09639790311363
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Balbuena",
+        "LINEA": "01",
+        "EST": "05",
+        "COORDENADAS": {
+            "latitude": 19.42361600156323,
+            "longitude": -99.10315234677367
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Moctezuma",
+        "LINEA": "01",
+        "EST": "06",
+        "COORDENADAS": {
+            "latitude": 19.426848845894057,
+            "longitude": -99.10979983443245
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "San Lázaro",
+        "LINEA": "01",
+        "EST": "07",
+        "COORDENADAS": {
+            "latitude": 19.43114851994858,
+            "longitude": -99.11417521687724
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Candelaria",
+        "LINEA": "01",
+        "EST": "08",
+        "COORDENADAS": {
+            "latitude": 19.42952699655028,
+            "longitude": -99.12088548838028
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Merced",
+        "LINEA": "01",
+        "EST": "09",
+        "COORDENADAS": {
+            "latitude": 19.425510505530625,
+            "longitude": -99.12532695264025
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Pino Suárez",
+        "LINEA": "01",
+        "EST": "10",
+        "COORDENADAS": {
+            "latitude": 19.425919466484014,
+            "longitude": -99.13296107066766
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Isabel La Católica",
+        "LINEA": "01",
+        "EST": "11",
+        "COORDENADAS": {
+            "latitude": 19.42643975253906,
+            "longitude": -99.13782328295527
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Salto del Agua",
+        "LINEA": "01",
+        "EST": "12",
+        "COORDENADAS": {
+            "latitude": 19.426750251621694,
+            "longitude": -99.14217430854646
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Balderas",
+        "LINEA": "01",
+        "EST": "13",
+        "COORDENADAS": {
+            "latitude": 19.42718856903958,
+            "longitude": -99.14894329993774
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Cuauhtémoc",
+        "LINEA": "01",
+        "EST": "14",
+        "COORDENADAS": {
+            "latitude": 19.425652002185966,
+            "longitude": -99.15462158452323
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Insurgentes",
+        "LINEA": "01",
+        "EST": "15",
+        "COORDENADAS": {
+            "latitude": 19.42363310689543,
+            "longitude": -99.16331260252291
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Sevilla",
+        "LINEA": "01",
+        "EST": "16",
+        "COORDENADAS": {
+            "latitude": 19.421529927128944,
+            "longitude": -99.17104967781317
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Chapultepec",
+        "LINEA": "01",
+        "EST": "17",
+        "COORDENADAS": {
+            "latitude": 19.4205826375975,
+            "longitude": -99.17691374593711
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1969"
+    },
+    {
+        "NOMBRE": "Juanacatlán",
+        "LINEA": "01",
+        "EST": "18",
+        "COORDENADAS": {
+            "latitude": 19.412909843184526,
+            "longitude": -99.18201809066967
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Tacubaya",
+        "LINEA": "01",
+        "EST": "19",
+        "COORDENADAS": {
+            "latitude": 19.40194186161424,
+            "longitude": -99.18742204946089
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Observatorio",
+        "LINEA": "01",
+        "EST": "20",
+        "COORDENADAS": {
+            "latitude": 19.398279959749836,
+            "longitude": -99.20040695681277
+        },
+        "TIPO": "Terminal",
+        "AÑO": "1972"
+    },
+    {
+        "NOMBRE": "Cuatro Caminos",
+        "LINEA": "02",
+        "EST": "01",
+        "COORDENADAS": {
+            "latitude": 19.459370403678584,
+            "longitude": -99.21606467876899
+        },
+        "TIPO": "Terminal",
+        "AÑO": "1984"
+    },
+    {
+        "NOMBRE": "Panteones",
+        "LINEA": "02",
+        "EST": "02",
+        "COORDENADAS": {
+            "latitude": 19.45860900800582,
+            "longitude": -99.20303667194952
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1984"
+    },
+    {
+        "NOMBRE": "Tacuba",
+        "LINEA": "02",
+        "EST": "03",
+        "COORDENADAS": {
+            "latitude": 19.459116605518197,
+            "longitude": -99.18774760609527
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Cuitláhuac",
+        "LINEA": "02",
+        "EST": "04",
+        "COORDENADAS": {
+            "latitude": 19.457185013468557,
+            "longitude": -99.18146738856036
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Popotla",
+        "LINEA": "02",
+        "EST": "05",
+        "COORDENADAS": {
+            "latitude": 19.45278071714793,
+            "longitude": -99.17552248768187
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Colegio Militar",
+        "LINEA": "02",
+        "EST": "06",
+        "COORDENADAS": {
+            "latitude": 19.44921047990333,
+            "longitude": -99.17184230917535
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Normal",
+        "LINEA": "02",
+        "EST": "07",
+        "COORDENADAS": {
+            "latitude": 19.444539023077656,
+            "longitude": -99.16727747457223
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "San Cosme",
+        "LINEA": "02",
+        "EST": "08",
+        "COORDENADAS": {
+            "latitude": 19.44180282163464,
+            "longitude": -99.16080177897247
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Revolución",
+        "LINEA": "02",
+        "EST": "09",
+        "COORDENADAS": {
+            "latitude": 19.43909994321831,
+            "longitude": -99.15421992442843
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Hidalgo",
+        "LINEA": "02",
+        "EST": "10",
+        "COORDENADAS": {
+            "latitude": 19.437498216105144,
+            "longitude": -99.14714265956907
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Bellas Artes",
+        "LINEA": "02",
+        "EST": "11",
+        "COORDENADAS": {
+            "latitude": 19.436296910512816,
+            "longitude": -99.14158700815287
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Allende",
+        "LINEA": "02",
+        "EST": "12",
+        "COORDENADAS": {
+            "latitude": 19.43559614481277,
+            "longitude": -99.13680985566123
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Zócalo/Tenochtitlan",
+        "LINEA": "02",
+        "EST": "13",
+        "COORDENADAS": {
+            "latitude": 19.432436122149596,
+            "longitude": -99.13226428754577
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Pino Suárez",
+        "LINEA": "02",
+        "EST": "14",
+        "COORDENADAS": {
+            "latitude": 19.42431503560561,
+            "longitude": -99.13300452662442
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "San Antonio Abad",
+        "LINEA": "02",
+        "EST": "15",
+        "COORDENADAS": {
+            "latitude": 19.415760892393916,
+            "longitude": -99.13460681323173
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Chabacano",
+        "LINEA": "02",
+        "EST": "16",
+        "COORDENADAS": {
+            "latitude": 19.409083949747355,
+            "longitude": -99.13563342836267
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Viaducto",
+        "LINEA": "02",
+        "EST": "17",
+        "COORDENADAS": {
+            "latitude": 19.400836575447364,
+            "longitude": -99.13690306104836
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Xola",
+        "LINEA": "02",
+        "EST": "18",
+        "COORDENADAS": {
+            "latitude": 19.395138330664334,
+            "longitude": -99.13782160263473
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Villa de Cortés",
+        "LINEA": "02",
+        "EST": "19",
+        "COORDENADAS": {
+            "latitude": 19.387557700518375,
+            "longitude": -99.13898027553928
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Nativitas",
+        "LINEA": "02",
+        "EST": "20",
+        "COORDENADAS": {
+            "latitude": 19.379476138011,
+            "longitude": -99.14019910928621
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Portales",
+        "LINEA": "02",
+        "EST": "21",
+        "COORDENADAS": {
+            "latitude": 19.369825821538036,
+            "longitude": -99.14160578475368
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Ermita",
+        "LINEA": "02",
+        "EST": "22",
+        "COORDENADAS": {
+            "latitude": 19.36102677239067,
+            "longitude": -99.14308958237532
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "General Anaya",
+        "LINEA": "02",
+        "EST": "23",
+        "COORDENADAS": {
+            "latitude": 19.35311055538589,
+            "longitude": -99.14497965783731
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Tasqueña",
+        "LINEA": "02",
+        "EST": "24",
+        "COORDENADAS": {
+            "latitude": 19.34372911231473,
+            "longitude": -99.13949958459
+        },
+        "TIPO": "Terminal",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Indios Verdes",
+        "LINEA": "03",
+        "EST": "01",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal",
+        "AÑO": "1979"
+    },
+    {
+        "NOMBRE": "Deportivo 18 de Marzo",
+        "LINEA": "03",
+        "EST": "02",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1979"
+    },
+    {
+        "NOMBRE": "Potrero",
+        "LINEA": "03",
+        "EST": "03",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1979"
+    },
+    {
+        "NOMBRE": "La Raza",
+        "LINEA": "03",
+        "EST": "04",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1978"
+    },
+    {
+        "NOMBRE": "Tlatelolco",
+        "LINEA": "03",
+        "EST": "05",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Guerrero",
+        "LINEA": "03",
+        "EST": "06",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Hidalgo",
+        "LINEA": "03",
+        "EST": "07",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Juárez",
+        "LINEA": "03",
+        "EST": "08",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Balderas",
+        "LINEA": "03",
+        "EST": "09",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Niños Héroes/Poder Judicial CDMX",
+        "LINEA": "03",
+        "EST": "10",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Hospital General",
+        "LINEA": "03",
+        "EST": "11",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1970"
+    },
+    {
+        "NOMBRE": "Centro Médico",
+        "LINEA": "03",
+        "EST": "12",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1980"
+    },
+    {
+        "NOMBRE": "Etiopía/Plaza de la Transparencia",
+        "LINEA": "03",
+        "EST": "13",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1980"
+    },
+    {
+        "NOMBRE": "Eugenia",
+        "LINEA": "03",
+        "EST": "14",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1980"
+    },
+    {
+        "NOMBRE": "División del Norte",
+        "LINEA": "03",
+        "EST": "15",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1980"
+    },
+    {
+        "NOMBRE": "Zapata",
+        "LINEA": "03",
+        "EST": "16",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1980"
+    },
+    {
+        "NOMBRE": "Coyoacán",
+        "LINEA": "03",
+        "EST": "17",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1983"
+    },
+    {
+        "NOMBRE": "Viveros/Derechos Humanos",
+        "LINEA": "03",
+        "EST": "18",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1983"
+    },
+    {
+        "NOMBRE": "Miguel Ángel de Quevedo",
+        "LINEA": "03",
+        "EST": "19",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1983"
+    },
+    {
+        "NOMBRE": "Copilco",
+        "LINEA": "03",
+        "EST": "20",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1983"
+    },
+    {
+        "NOMBRE": "Universidad",
+        "LINEA": "03",
+        "EST": "21",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal",
+        "AÑO": "1983"
+    },
+    {
+        "NOMBRE": "Santa Anita",
+        "LINEA": "04",
+        "EST": "01",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal / Transbordo",
+        "AÑO": "1982"
+    },
+    {
+        "NOMBRE": "Jamaica",
+        "LINEA": "04",
+        "EST": "02",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1982"
+    },
+    {
+        "NOMBRE": "Fray Servando",
+        "LINEA": "04",
+        "EST": "03",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1982"
+    },
+    {
+        "NOMBRE": "Candelaria",
+        "LINEA": "04",
+        "EST": "04",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Morelos",
+        "LINEA": "04",
+        "EST": "05",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Canal del Norte",
+        "LINEA": "04",
+        "EST": "06",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Consulado",
+        "LINEA": "04",
+        "EST": "07",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Bondojito",
+        "LINEA": "04",
+        "EST": "08",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Talismán",
+        "LINEA": "04",
+        "EST": "09",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Martín Carrera",
+        "LINEA": "04",
+        "EST": "10",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal / Transbordo",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Politécnico",
+        "LINEA": "05",
+        "EST": "01",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal",
+        "AÑO": "1982"
+    },
+    {
+        "NOMBRE": "Instituto del Petróleo",
+        "LINEA": "05",
+        "EST": "02",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1982"
+    },
+    {
+        "NOMBRE": "Autobuses del Norte",
+        "LINEA": "05",
+        "EST": "03",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1982"
+    },
+    {
+        "NOMBRE": "La Raza",
+        "LINEA": "05",
+        "EST": "04",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1982"
+    },
+    {
+        "NOMBRE": "Misterios",
+        "LINEA": "05",
+        "EST": "05",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1982"
+    },
+    {
+        "NOMBRE": "Valle Gómez",
+        "LINEA": "05",
+        "EST": "06",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1982"
+    },
+    {
+        "NOMBRE": "Consulado",
+        "LINEA": "05",
+        "EST": "07",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Eduardo Molina",
+        "LINEA": "05",
+        "EST": "08",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Aragón",
+        "LINEA": "05",
+        "EST": "09",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Oceanía",
+        "LINEA": "05",
+        "EST": "10",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Terminal Aérea",
+        "LINEA": "05",
+        "EST": "11",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Hangares",
+        "LINEA": "05",
+        "EST": "12",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "Pantitlán",
+        "LINEA": "05",
+        "EST": "13",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal / Transbordo",
+        "AÑO": "1981"
+    },
+    {
+        "NOMBRE": "El Rosario",
+        "LINEA": "06",
+        "EST": "01",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal / Transbordo",
+        "AÑO": "1983"
+    },
+    {
+        "NOMBRE": "Tezozómoc",
+        "LINEA": "06",
+        "EST": "02",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1983"
+    },
+    {
+        "NOMBRE": "UAM Azcapotzalco",
+        "LINEA": "06",
+        "EST": "03",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1983"
+    },
+    {
+        "NOMBRE": "Ferrería/Arena Ciudad de México",
+        "LINEA": "06",
+        "EST": "04",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1983"
+    },
+    {
+        "NOMBRE": "Norte 45",
+        "LINEA": "06",
+        "EST": "05",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1983"
+    },
+    {
+        "NOMBRE": "Vallejo",
+        "LINEA": "06",
+        "EST": "06",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1983"
+    },
+    {
+        "NOMBRE": "Instituto del Petróleo",
+        "LINEA": "06",
+        "EST": "07",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1983"
+    },
+    {
+        "NOMBRE": "Lindavista",
+        "LINEA": "06",
+        "EST": "08",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1986"
+    },
+    {
+        "NOMBRE": "Deportivo 18 de Marzo",
+        "LINEA": "06",
+        "EST": "09",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1986"
+    },
+    {
+        "NOMBRE": "La Villa/Basílica",
+        "LINEA": "06",
+        "EST": "10",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1986"
+    },
+    {
+        "NOMBRE": "Martín Carrera",
+        "LINEA": "06",
+        "EST": "11",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal / Transbordo",
+        "AÑO": "1986"
+    },
+    {
+        "NOMBRE": "El Rosario",
+        "LINEA": "07",
+        "EST": "01",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal / Transbordo",
+        "AÑO": "1988"
+    },
+    {
+        "NOMBRE": "Aquiles Serdán",
+        "LINEA": "07",
+        "EST": "02",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1988"
+    },
+    {
+        "NOMBRE": "Camarones",
+        "LINEA": "07",
+        "EST": "03",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1988"
+    },
+    {
+        "NOMBRE": "Refinería",
+        "LINEA": "07",
+        "EST": "04",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1988"
+    },
+    {
+        "NOMBRE": "Tacuba",
+        "LINEA": "07",
+        "EST": "05",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1984"
+    },
+    {
+        "NOMBRE": "San Joaquín",
+        "LINEA": "07",
+        "EST": "06",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1984"
+    },
+    {
+        "NOMBRE": "Polanco",
+        "LINEA": "07",
+        "EST": "07",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1984"
+    },
+    {
+        "NOMBRE": "Auditorio",
+        "LINEA": "07",
+        "EST": "08",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1984"
+    },
+    {
+        "NOMBRE": "Constituyentes",
+        "LINEA": "07",
+        "EST": "09",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1985"
+    },
+    {
+        "NOMBRE": "Tacubaya",
+        "LINEA": "07",
+        "EST": "10",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1985"
+    },
+    {
+        "NOMBRE": "San Pedro de Los Pinos",
+        "LINEA": "07",
+        "EST": "11",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1985"
+    },
+    {
+        "NOMBRE": "San Antonio",
+        "LINEA": "07",
+        "EST": "12",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1985"
+    },
+    {
+        "NOMBRE": "Mixcoac",
+        "LINEA": "07",
+        "EST": "13",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1985"
+    },
+    {
+        "NOMBRE": "Barranca del Muerto",
+        "LINEA": "07",
+        "EST": "14",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal",
+        "AÑO": "1985"
+    },
+    {
+        "NOMBRE": "Garibaldi/Lagunilla",
+        "LINEA": "08",
+        "EST": "01",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal / Transbordo",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Bellas Artes",
+        "LINEA": "08",
+        "EST": "02",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "San Juan de Letrán",
+        "LINEA": "08",
+        "EST": "03",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Salto del Agua",
+        "LINEA": "08",
+        "EST": "04",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Doctores",
+        "LINEA": "08",
+        "EST": "05",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Obrera",
+        "LINEA": "08",
+        "EST": "06",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Chabacano",
+        "LINEA": "08",
+        "EST": "07",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "La Viga",
+        "LINEA": "08",
+        "EST": "08",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Santa Anita",
+        "LINEA": "08",
+        "EST": "09",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Coyuya",
+        "LINEA": "08",
+        "EST": "10",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Iztacalco",
+        "LINEA": "08",
+        "EST": "11",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Apatlaco",
+        "LINEA": "08",
+        "EST": "12",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Aculco",
+        "LINEA": "08",
+        "EST": "13",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Escuadrón 201",
+        "LINEA": "08",
+        "EST": "14",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Atlalilco",
+        "LINEA": "08",
+        "EST": "15",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Iztapalapa",
+        "LINEA": "08",
+        "EST": "16",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Cerro de la Estrella",
+        "LINEA": "08",
+        "EST": "17",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "UAM-I",
+        "LINEA": "08",
+        "EST": "18",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Constitución de 1917",
+        "LINEA": "08",
+        "EST": "19",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal",
+        "AÑO": "1994"
+    },
+    {
+        "NOMBRE": "Pantitlán",
+        "LINEA": "09",
+        "EST": "01",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal / Transbordo",
+        "AÑO": "1987"
+    },
+    {
+        "NOMBRE": "Puebla",
+        "LINEA": "09",
+        "EST": "02",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1987"
+    },
+    {
+        "NOMBRE": "Ciudad Deportiva",
+        "LINEA": "09",
+        "EST": "03",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1987"
+    },
+    {
+        "NOMBRE": "Velódromo",
+        "LINEA": "09",
+        "EST": "04",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1987"
+    },
+    {
+        "NOMBRE": "Mixhiuca",
+        "LINEA": "09",
+        "EST": "05",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1987"
+    },
+    {
+        "NOMBRE": "Jamaica",
+        "LINEA": "09",
+        "EST": "06",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1987"
+    },
+    {
+        "NOMBRE": "Chabacano",
+        "LINEA": "09",
+        "EST": "07",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1987"
+    },
+    {
+        "NOMBRE": "Lázaro Cárdenas",
+        "LINEA": "09",
+        "EST": "08",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1987"
+    },
+    {
+        "NOMBRE": "Centro Médico",
+        "LINEA": "09",
+        "EST": "09",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1987"
+    },
+    {
+        "NOMBRE": "Chilpancingo",
+        "LINEA": "09",
+        "EST": "10",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1988"
+    },
+    {
+        "NOMBRE": "Patriotismo",
+        "LINEA": "09",
+        "EST": "11",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1988"
+    },
+    {
+        "NOMBRE": "Tacubaya",
+        "LINEA": "09",
+        "EST": "12",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal / Transbordo",
+        "AÑO": "1988"
+    },
+    {
+        "NOMBRE": "Tláhuac",
+        "LINEA": "12",
+        "EST": "01",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Tlaltenco",
+        "LINEA": "12",
+        "EST": "02",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Zapotitlán",
+        "LINEA": "12",
+        "EST": "03",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Nopalera",
+        "LINEA": "12",
+        "EST": "04",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Olivos",
+        "LINEA": "12",
+        "EST": "05",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Tezonco",
+        "LINEA": "12",
+        "EST": "06",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Periferico Oriente",
+        "LINEA": "12",
+        "EST": "07",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Calle 11",
+        "LINEA": "12",
+        "EST": "08",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Lomas Estrella",
+        "LINEA": "12",
+        "EST": "09",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "San Andres Tomatlán",
+        "LINEA": "12",
+        "EST": "10",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Culhuacán",
+        "LINEA": "12",
+        "EST": "11",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Atlalilco",
+        "LINEA": "12",
+        "EST": "12",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Mexicaltzingo",
+        "LINEA": "12",
+        "EST": "13",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Ermita",
+        "LINEA": "12",
+        "EST": "14",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Eje Central",
+        "LINEA": "12",
+        "EST": "15",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Parque de los Venados",
+        "LINEA": "12",
+        "EST": "16",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Zapata",
+        "LINEA": "12",
+        "EST": "17",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Hospital 20 de Noviembre",
+        "LINEA": "12",
+        "EST": "18",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Insurgentes Sur",
+        "LINEA": "12",
+        "EST": "19",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Mixcoac",
+        "LINEA": "12",
+        "EST": "20",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal / Transbordo",
+        "AÑO": "2012"
+    },
+    {
+        "NOMBRE": "Pantitlán",
+        "LINEA": "A",
+        "EST": "01",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal / Transbordo",
+        "AÑO": "1991"
+    },
+    {
+        "NOMBRE": "Agrícola Oriental",
+        "LINEA": "A",
+        "EST": "02",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1991"
+    },
+    {
+        "NOMBRE": "Canal de San Juan",
+        "LINEA": "A",
+        "EST": "03",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1991"
+    },
+    {
+        "NOMBRE": "Tepalcates",
+        "LINEA": "A",
+        "EST": "04",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1991"
+    },
+    {
+        "NOMBRE": "Guelatao",
+        "LINEA": "A",
+        "EST": "05",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1991"
+    },
+    {
+        "NOMBRE": "Peñón Viejo",
+        "LINEA": "A",
+        "EST": "06",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1991"
+    },
+    {
+        "NOMBRE": "Acatitla",
+        "LINEA": "A",
+        "EST": "07",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1991"
+    },
+    {
+        "NOMBRE": "Santa Marta",
+        "LINEA": "A",
+        "EST": "08",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1991"
+    },
+    {
+        "NOMBRE": "Los Reyes",
+        "LINEA": "A",
+        "EST": "09",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1991"
+    },
+    {
+        "NOMBRE": "La Paz",
+        "LINEA": "A",
+        "EST": "10",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal",
+        "AÑO": "1991"
+    },
+    {
+        "NOMBRE": "Buenavista",
+        "LINEA": "B",
+        "EST": "01",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "Guerrero",
+        "LINEA": "B",
+        "EST": "02",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "Garibaldi/Lagunilla",
+        "LINEA": "B",
+        "EST": "03",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "Lagunilla",
+        "LINEA": "B",
+        "EST": "04",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "Tepito",
+        "LINEA": "B",
+        "EST": "05",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "Morelos",
+        "LINEA": "B",
+        "EST": "06",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "San Lázaro",
+        "LINEA": "B",
+        "EST": "07",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "Ricardo Flores Magón",
+        "LINEA": "B",
+        "EST": "08",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "Romero Rubio",
+        "LINEA": "B",
+        "EST": "09",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "Oceanía",
+        "LINEA": "B",
+        "EST": "10",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Transbordo",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "Deportivo Oceanía",
+        "LINEA": "B",
+        "EST": "11",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "Bosque de Aragón",
+        "LINEA": "B",
+        "EST": "12",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "Villa de Aragón",
+        "LINEA": "B",
+        "EST": "13",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "1999"
+    },
+    {
+        "NOMBRE": "Nezahualcóyotl",
+        "LINEA": "B",
+        "EST": "14",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2000"
+    },
+    {
+        "NOMBRE": "Impulsora",
+        "LINEA": "B",
+        "EST": "15",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2000"
+    },
+    {
+        "NOMBRE": "Río de los Remedios",
+        "LINEA": "B",
+        "EST": "16",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2000"
+    },
+    {
+        "NOMBRE": "Múzquiz",
+        "LINEA": "B",
+        "EST": "17",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2000"
+    },
+    {
+        "NOMBRE": "Ecatepec",
+        "LINEA": "B",
+        "EST": "18",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2000"
+    },
+    {
+        "NOMBRE": "Olímpica",
+        "LINEA": "B",
+        "EST": "19",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2000"
+    },
+    {
+        "NOMBRE": "Plaza Aragón",
+        "LINEA": "B",
+        "EST": "20",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Intermedia",
+        "AÑO": "2000"
+    },
+    {
+        "NOMBRE": "Ciudad Azteca",
+        "LINEA": "B",
+        "EST": "21",
+        "COORDENADAS": {
+            "latitude": 19.41640732674999,
+            "longitude": -99.09027816294555
+        },
+        "TIPO": "Terminal",
+        "AÑO": "2000"
+    }
+]
